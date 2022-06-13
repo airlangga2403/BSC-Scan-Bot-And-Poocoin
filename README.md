@@ -1,4 +1,5 @@
-# BSC-Scan-Bot-And-Poocoin
+# Bot For Checking Bsc And Polygon Scan
+
 
 pip install Selenium
 pip install time
